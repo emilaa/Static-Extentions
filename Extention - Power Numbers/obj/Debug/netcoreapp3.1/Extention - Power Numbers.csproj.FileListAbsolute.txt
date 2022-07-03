@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\bin\Debug\netcoreapp3.1\Extention - Power Numbers.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Extention - Power Numbers\Extention - Power Numbers\obj\Debug\netcoreapp3.1\Extention - Power Numbers.genruntimeconfig.cache
